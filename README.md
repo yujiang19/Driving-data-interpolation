@@ -52,6 +52,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 1、Speed reconstruction results under different methods
 ![image](https://github.com/user-attachments/assets/cdc12e99-8bb6-41e4-b6cb-a3754841f819)
 
+![image](https://github.com/user-attachments/assets/4195ac1f-9d94-45de-bc06-b36c30df2095)
 
 2、Comparison of the error between the reconstructed speed and the original speed in characteristic parameters using different methods. (The horizontal axis labels from left to right are: 1(vmax), 2(vm), 3(vmt), 4(σv), 5(am), 6(σa), 7(aam), 8(aamax), 9(admax), 10(adm), 11(dt), 12(Pa), 13(Pd), 14(Pi).)
 
