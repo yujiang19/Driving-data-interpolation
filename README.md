@@ -1,5 +1,5 @@
 # Driving-data-interpolation
-# **[Driving-data-interpolation](https://github.com/yujiang19/Driving-data-interpolation)**
+
 
 A solver for interpolation of low-frequency driving data. The interpolation algorithm based on driver behavior characteristics is explained in detail in the paper:
 
