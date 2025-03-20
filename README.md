@@ -65,4 +65,4 @@ This code is provided as freeware, intended solely for non-commercial, education
 
 Please contact us if you need further technical support. If you have any trouble with this repo, feel free to contact us by e-mail. We'll try to resolve the issue as soon as possible! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Email contact:
+Email contact: 15615630556@163.com
