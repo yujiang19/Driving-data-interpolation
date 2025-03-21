@@ -19,6 +19,17 @@ This respository contains the following files:
 
 **augmentf.m -**  Driving data interpolation solver as Matlab function file, including vehicle speed interpolation, current interpolation, and corresponding baseline model
 
+       valdationpolt.m is a class function that includes the following methods
+       function obj=augmentf(D)
+            obj.D=D; % 
+            obj.initial; % initialization
+            obj.vagment; % Our imputation model
+            obj.linear; % Linear interpolation model
+            obj.spline; % Spline interpolation model
+            obj.speed_prcess; % BBI and markov-based interpolation model
+            obj.SOCprocess; % Battery data interpolation model
+        end
+
 **valdationpolt.m –**  A functions for model validation and result visualization
 
        valdationpolt.m is a class function that includes the following methods：
