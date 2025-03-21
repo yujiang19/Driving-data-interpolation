@@ -21,21 +21,17 @@ This respository contains the following files:
 
 **valdationpolt.m –**  A functions for model validation and result visualization
 
-       data_trip10s.mat包含了以下数据：
+       valdationpolt.m is a class function that includes the following methods：
 
-**Column6 -**   A Nx1 array of vehicle driving speed in m/s
+**obj.calfea -**  Calculate characteristic parameter 
 
-**Column8 -**   A Nx1 array of the battery voltage in V
+**obj.vplot -**   Vehicle speed calibration visualization
 
-**Column9 -**   A Nx1 array of battery current in A
+**obj.socplot -**   Battery data visualization
 
-**Column10 -**   A Nx1 array of SOC
+**obj.vaplot -**   Calculate velocity-acceleration distribution
 
-**Column13 -**   A Nx1 array of pedal opening
-
-**Column16 -**   A Nx1 array of vehicle acceleration in m/s2
-
-**Column17 -**   A Nx1 array of driving distance in m
+**obj.energyplot -**   Calculate energy consumption
 
 Other functions should also include the driving speed prediction function and energy consumption calculation function for interpolation model verification. Unfortunately, since the dataset used for training the above functions is proprietary, I cannot disclose the code of the entire model. I will disclose this part of the code after subsequent modifications.
 
