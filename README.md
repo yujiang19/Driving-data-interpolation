@@ -10,7 +10,7 @@ A solver for interpolation of low-frequency driving data. The interpolation algo
 Big data platforms provide strong support and network advantages for innovating and optimizing energy-saving technologies for electric vehicles (EVs). However, it faces the dual challenges of low-resolution data and processing complexity. We proposed a comprehensive method for data reconstruction and validation incorporating behavioral characteristics and multi-perspective insights to address these challenges. The proposed method introduces driving characteristics extraction, pattern recognition, and reconstruction module design to achieve data interpolation tasks.
 
 <div align=center>
-<img src="https://github.com/yujiang19/pic/blob/main/abstract.png" width="500px" alt="abstract">
+<img src="https://github.com/yujiang19/pic/blob/main/abstract.png" width="700px" alt="abstract">
 </div>
 
 # Main file description
