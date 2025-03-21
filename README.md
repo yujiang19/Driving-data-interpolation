@@ -53,7 +53,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 1、Speed reconstruction results under different methods
 
 <div align=center>
-<img src="https://github.com/yujiang19/pic/blob/main/1.png" width="1200px" alt="fig1">
+<img src="https://github.com/yujiang19/pic/blob/main/1.png" width="1500px" alt="fig1">
 </div>
 
 2、Comparison of the error between the reconstructed speed and the original speed in characteristic parameters using different methods. (The horizontal axis labels from left to right are: 1(maximum speed), 2(average speed), 3(average driving speed), 4(standard deviation of speed), 5(average acceleration), 6(standard deviation of acceleration), 7(average positive acceleration), 8(maximum positive acceleration), 9(maximum deceleration), 10(average deceleration), 11(driving distance), 12(percentage of driving time under positive acceleration), 13(percentage of driving time under deceleration), 14(percentage of idle time).)
