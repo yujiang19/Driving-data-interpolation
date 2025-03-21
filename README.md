@@ -60,7 +60,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 
 3、Resampling results of current and voltage
 
-<img src="https://github.com/yujiang19/pic/blob/main/3.png" width="500px" alt="fig3">
+<img src="https://github.com/yujiang19/pic/blob/main/3.png" width="800px" alt="fig3">
 
 4、The kernel density function curves of acceleration across the entire speed range.
 
@@ -68,7 +68,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 
 5、SOC resampling results.
 
-<img src="https://github.com/yujiang19/pic/blob/main/5.png" width="500px" alt="fig5">
+<img src="https://github.com/yujiang19/pic/blob/main/5.png" width="800px" alt="fig5">
 
 6、Comparison between simulated energy consumption and measurements.
 
