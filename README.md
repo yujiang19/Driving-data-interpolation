@@ -52,7 +52,7 @@ Due to confidentiality requirements for the original driving data, we cannot mak
 
 The data_trip1s.mat file in the example_data folder is data at a sampling frequency of 1HZ, and the data_trip10s.mat file is data at a sampling frequency of 0.1HZ.
 
-       data_trip10s.mat包含了以下数据：
+       data_trip10s.mat contains the following data:
 
 **Column6 -**   A Nx1 array of vehicle driving speed in m/s
 
