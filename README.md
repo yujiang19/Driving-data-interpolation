@@ -51,20 +51,16 @@ The Current fitting function.mat file in the similar driver data folder is the f
 # Results
 
 1、Speed reconstruction results under different methods
-![image](https://github.com/user-attachments/assets/ba28426e-8ead-4b36-b466-92c62e03ac87)
 
 ![pic1](https://github.com/yujiang19/pic/blob/main/1.png)
 
 
-
-![image](https://github.com/user-attachments/assets/4195ac1f-9d94-45de-bc06-b36c30df2095)
-
 2、Comparison of the error between the reconstructed speed and the original speed in characteristic parameters using different methods. (The horizontal axis labels from left to right are: 1(vmax), 2(vm), 3(vmt), 4(σv), 5(am), 6(σa), 7(aam), 8(aamax), 9(admax), 10(adm), 11(dt), 12(Pa), 13(Pd), 14(Pi).)
-
+![pic2](https://github.com/yujiang19/pic/blob/main/2.png)
 3、The kernel density function curves of acceleration across the entire speed range.
-
+![pic3](https://github.com/yujiang19/pic/blob/main/3.png)
 4、SOC resampling results.
-
+![pic4](https://github.com/yujiang19/pic/blob/main/4.png)
 # Disclaimer
 
 This code is provided as freeware, intended solely for non-commercial, educational, and research purposes. It must not be used for any commercial purposes without prior authorization from the code developer. Any use for commercial purposes without such authorization will render you and the users responsible for any resultant liabilities, and the code developer and the platform will not be held responsible for any consequences arising therefrom. Users assume all risks associated with the use of this code. The developer and associated platforms disclaim any liability for special, incidental, direct, or indirect damages arising out of or in connection with the use or inability to use the code. This includes, but is not limited to, any loss of data or property, and any resulting or related liabilities to the user or any third parties. By downloading or using this code, you signify your agreement to these terms.
