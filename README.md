@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4ef8fe7a-e387-4e73-8cc4-f917a8c266f6)# Driving-data-interpolation
+# Driving-data-interpolation
 
 
 A solver for interpolation of low-frequency driving data. The interpolation algorithm based on driver behavior characteristics is explained in detail in the paper:
