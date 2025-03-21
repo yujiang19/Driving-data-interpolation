@@ -53,7 +53,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 1、Speed reconstruction results under different methods
 ![image](https://github.com/user-attachments/assets/ba28426e-8ead-4b36-b466-92c62e03ac87)
 
-![pic1](https://github.com/yujiang19/pic.git/1.png)
+![pic1](https://github.com/yujiang19/pic/1.png)
 
 
 
