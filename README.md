@@ -64,23 +64,33 @@ The Current fitting function.mat file in the similar driver data folder is the f
 
 3、Resampling results of current and voltage
 
+<div align=center>
 <img src="https://github.com/yujiang19/pic/blob/main/3.png" width="800px" alt="fig3">
+</div>
 
 4、The kernel density function curves of acceleration across the entire speed range.
 
+<div align=center>
 <img src="https://github.com/yujiang19/pic/blob/main/4.png" width="500px" alt="fig4">
+</div>
 
 5、SOC resampling results.
 
+<div align=center>
 <img src="https://github.com/yujiang19/pic/blob/main/5.png" width="800px" alt="fig5">
+</div>
 
 6、Comparison between simulated energy consumption and measurements.
 
+<div align=center>
 <img src="https://github.com/yujiang19/pic/blob/main/6.png" width="500px" alt="fig6">
+</div>
 
 7、Error box plot of battery calibration model results.
 
+<div align=center>
 <img src="https://github.com/yujiang19/pic/blob/main/7.png" width="500px" alt="fig7">
+</div>
 
 # Disclaimer
 
