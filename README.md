@@ -54,11 +54,11 @@ The data_trip1s.mat file in the example_data folder is data at a sampling freque
 
        data_trip10s.mat contains the following data:
 
-**Column6 -**   A Nx1 array of vehicle driving speed in m/s
+**Column6 -**   A Nx1 array of vehicle driving speed in $m/s$
 
-**Column8 -**   A Nx1 array of the battery voltage in V
+**Column8 -**   A Nx1 array of the battery voltage in $V$
 
-**Column9 -**   A Nx1 array of battery current in A
+**Column9 -**   A Nx1 array of battery current in $A$
 
 **Column10 -**   A Nx1 array of SOC
 
@@ -66,7 +66,7 @@ The data_trip1s.mat file in the example_data folder is data at a sampling freque
 
 **Column16 -**   A Nx1 array of vehicle acceleration in $m/s^2$
 
-**Column17 -**   A Nx1 array of driving distance in m
+**Column17 -**   A Nx1 array of driving distance in $m$
 
 The Current fitting function.mat file in the similar driver data folder is the fitting function based on high-frequency driver data and the driver_limit.mat file is the similar driver constraint information.
 
