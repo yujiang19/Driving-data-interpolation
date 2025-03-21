@@ -17,7 +17,7 @@ This respository contains the following files:
 
 **main.m -**  Main function
 
-**augmentf.m -**  Driving data interpolation solver as Matlab function file, including vehicle speed interpolation, current interpolation, and corresponding baseline model
+**augmentf.m -**  Driving data interpolation solver as Matlab function file, including vehicle speed interpolation, battery current interpolation, and corresponding baseline model
 
        augmentf.m is a class function that includes the following methods
        function obj=augmentf(D)
