@@ -28,9 +28,9 @@ Other functions should also include the driving speed prediction function and en
 
 Due to confidentiality requirements for the original driving data, we cannot make the complete dataset public. Therefore, we provide sample data that contains the key variables required for the model to run, including vehicle speed, acceleration, driving distance, accelerator and brake pedal opening, and battery data. We hope that this example can help users understand the basic structure and format requirements of the data required in this research model, and provide a reference for users to verify it with their own data.
 
-The data\_trip1s.mat file in the example\_data folder is data at a sampling frequency of 1HZ, and the data\_trip10s.mat file is data at a sampling frequency of 0.1HZ.
+The data_trip1s.mat file in the example_data folder is data at a sampling frequency of 1HZ, and the data_trip10s.mat file is data at a sampling frequency of 0.1HZ.
 
-       data\_trip10s.mat包含了以下数据：
+       data_trip10s.mat包含了以下数据：
 
 **Column6 -**   A Nx1 array of vehicle driving speed in m/s
 
@@ -46,7 +46,7 @@ The data\_trip1s.mat file in the example\_data folder is data at a sampling freq
 
 **Column17 -**   A Nx1 array of driving distance in m
 
-The Current fitting function.mat file in the similar driver data folder is the fitting function based on high-frequency driver data, and the driver\_limit.mat file is the similar driver constraint information.
+The Current fitting function.mat file in the similar driver data folder is the fitting function based on high-frequency driver data and the driver_limit.mat file is the similar driver constraint information.
 
 # Results
 
@@ -94,12 +94,12 @@ The Current fitting function.mat file in the similar driver data folder is the f
 
 # Disclaimer
 
-This code is provided as freeware, intended solely for non-commercial, educational, and research purposes. It must not be used for any commercial purposes without prior authorization from the code developer. Any use for commercial purposes without such authorization will render you and the users responsible for any resultant liabilities, and the code developer and the platform will not be held responsible for any consequences arising therefrom. Users assume all risks associated with the use of this code. The developer and associated platforms disclaim any liability for special, incidental, direct, or indirect damages arising out of or in connection with the use or inability to use the code. This includes, but is not limited to, any loss of data or property, and any resulting or related liabilities to the user or any third parties. By downloading or using this code, you signify your agreement to these terms.
+This code is provided as freeware and is intended solely for non-commercial, educational, and research purposes. It must not be used for any commercial purposes without prior authorization from the code developer. Any use for commercial purposes without such authorization will render you and the users responsible for any resultant liabilities, and the code developer and the platform will not be held responsible for any consequences arising therefrom. Users assume all risks associated with the use of this code. The developer and associated platforms disclaim any liability for special, incidental, direct, or indirect damages arising out of or in connection with the use or inability to use the code. This includes, but is not limited to, any loss of data or property, and any resulting or related liabilities to the user or any third parties. By downloading or using this code, you signify your agreement to these terms.
 
 # Contact Us
 
 Please contact us if you need further technical support. If you have any trouble with this repo, feel free to contact us by e-mail. We'll try to resolve the issue as soon as possible! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Email contact: [Yu Jiang](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+Email contact: [Yu Jiang](15615630556@163.com)
 
 
