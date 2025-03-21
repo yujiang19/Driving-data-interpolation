@@ -20,6 +20,7 @@ This respository contains the following files:
 **augmentf.m -**  Driving data interpolation solver as Matlab function file, including vehicle speed interpolation, current interpolation, and corresponding baseline model
 
 **valdationpolt.m –**  A functions for model validation and result visualization
+
        data_trip10s.mat包含了以下数据：
 
 **Column6 -**   A Nx1 array of vehicle driving speed in m/s
