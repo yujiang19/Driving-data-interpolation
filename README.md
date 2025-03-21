@@ -53,31 +53,31 @@ The Current fitting function.mat file in the similar driver data folder is the f
 1、Speed reconstruction results under different methods
 
 
-<img src="https://github.com/yujiang19/pic/blob/main/1.png" width="800px" alt="fig1">
+<img src="https://github.com/yujiang19/pic/blob/main/1.png" width="1200px" alt="fig1">
 
 2、Comparison of the error between the reconstructed speed and the original speed in characteristic parameters using different methods. (The horizontal axis labels from left to right are: 1(vmax), 2(vm), 3(vmt), 4(σv), 5(am), 6(σa), 7(aam), 8(aamax), 9(admax), 10(adm), 11(dt), 12(Pa), 13(Pd), 14(Pi).)
 
-<img src="https://github.com/yujiang19/pic/blob/main/2.png" width="800px" alt="fig2">
+<img src="https://github.com/yujiang19/pic/blob/main/2.png" width="500px" alt="fig2">
 
 3、Resampling results of current and voltage
 
-<img src="https://github.com/yujiang19/pic/blob/main/3.png" width="800px" alt="fig3">
+<img src="https://github.com/yujiang19/pic/blob/main/3.png" width="500px" alt="fig3">
 
 4、The kernel density function curves of acceleration across the entire speed range.
 
-<img src="https://github.com/yujiang19/pic/blob/main/4.png" width="800px" alt="fig4">
+<img src="https://github.com/yujiang19/pic/blob/main/4.png" width="500px" alt="fig4">
 
 5、SOC resampling results.
 
-<img src="https://github.com/yujiang19/pic/blob/main/5.png" width="800px" alt="fig5">
+<img src="https://github.com/yujiang19/pic/blob/main/5.png" width="500px" alt="fig5">
 
 6、Comparison between simulated energy consumption and measurements.
 
-<img src="https://github.com/yujiang19/pic/blob/main/6.png" width="800px" alt="fig6">
+<img src="https://github.com/yujiang19/pic/blob/main/6.png" width="500px" alt="fig6">
 
 7、Error box plot of battery calibration model results.
 
-<img src="https://github.com/yujiang19/pic/blob/main/7.png" width="800px" alt="fig7">
+<img src="https://github.com/yujiang19/pic/blob/main/7.png" width="500px" alt="fig7">
 
 # Disclaimer
 
