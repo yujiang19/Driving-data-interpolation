@@ -64,7 +64,7 @@ The data_trip1s.mat file in the example_data folder is data at a sampling freque
 
 **Column13 -**   A Nx1 array of pedal opening
 
-**Column16 -**   A Nx1 array of vehicle acceleration in m/s^2
+**Column16 -**   A Nx1 array of vehicle acceleration in $m/s^2$
 
 **Column17 -**   A Nx1 array of driving distance in m
 
