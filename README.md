@@ -33,7 +33,7 @@ This respository contains the following files:
 **valdationpolt.m –**  A functions for model validation and result visualization
 
        valdationpolt.m is a class function that includes the following methods：
-       function obj=augmentf(D)
+       function obj=augmentf(data)
             obj.data = data;
             obj.fea = table();
             obj.ferr = table();
