@@ -13,7 +13,7 @@ Big data platforms provide strong support and network advantages for innovating 
 
 This respository contains the following files:
 
-**example_inpdata.mat -**  A Matlab data file that contains the inputs for the solver
+`**example_inpdata.mat -**`  A Matlab data file that contains the inputs for the solver
 
 **main.m -**  Main function
 
@@ -54,12 +54,7 @@ The Current fitting function.mat file in the similar driver data folder is the f
 ![image](https://github.com/user-attachments/assets/ba28426e-8ead-4b36-b466-92c62e03ac87)
 
 
-**数据文件**：`data_trip10s.mat`
 
-该文件包含以下数据：
-- 变量1：描述
-- 变量2：描述
-- 变量3：描述
 
 
 ![image](https://github.com/user-attachments/assets/4195ac1f-9d94-45de-bc06-b36c30df2095)
