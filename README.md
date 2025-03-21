@@ -3,7 +3,7 @@
 
 A solver for interpolation of low-frequency driving data. The interpolation algorithm based on driver behavior characteristics is explained in detail in the paper:
 
-[1] Electric vehicle driving data reconstruction and validation: A method combining behavioral characteristics and multi-perspective insights
+       [1] Electric vehicle driving data reconstruction and validation: A method combining behavioral characteristics and multi-perspective insights
 
 # **Overview**
 
