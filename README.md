@@ -37,16 +37,12 @@ This respository contains the following files:
             obj.data = data;
             obj.fea = table();
             obj.ferr = table();
+            obj.calfea; % Calculate characteristic parameter 
+            obj.vplot;  % Vehicle speed calibration visualization
+            obj.socplot;  % Battery data visualization
+            obj.vaplot;  % Calculate velocity-acceleration distribution
+            obj.energyplot; % Calculate energy consumption
        end
-**obj.calfea -**  Calculate characteristic parameter 
-
-**obj.vplot -**   Vehicle speed calibration visualization
-
-**obj.socplot -**   Battery data visualization
-
-**obj.vaplot -**   Calculate velocity-acceleration distribution
-
-**obj.energyplot -**   Calculate energy consumption
 
 Other functions should also include the driving speed prediction function and energy consumption calculation function for interpolation model verification. Unfortunately, since the dataset used for training the above functions is proprietary, I cannot disclose the code of the entire model. I will disclose this part of the code after subsequent modifications.
 
